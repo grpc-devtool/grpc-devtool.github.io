@@ -44,9 +44,6 @@ Install the npm cli tool. Make sure npm module in on system path by running a co
   # While recording sreams, it will save only 10 messages by default
   trimmedStreamSize: 10
   ```
-<video width="320" height="240" controls>
-  <source type="video/mp4" src="">
-</video>
 
 <video width="320" height="240" controls>
   <source type="video/mp4" src="https://github.com/grpc-devtool/grpc-devtool.github.io/raw/master/quick-start/03-created-grpc.yaml-and-protos.mp4">
