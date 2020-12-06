@@ -179,5 +179,3 @@ Install the npm cli tool. Make sure npm module in on system path by running a co
 
 
  ***Thats it ! Now our app is running against fixed data. Check out the streaming API. It returns the same set of elements circularily.***
-
-![image-20201106220446319](images/dance-of-joy.gif)
