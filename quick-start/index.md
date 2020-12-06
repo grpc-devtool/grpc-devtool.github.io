@@ -2,8 +2,9 @@
 
 Install the npm cli tool. Make sure npm module in on system path by running a command.
 
-<video src="01-install.mp4"></video>
-
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="01-install.mp4">
+</video>
 
 
 **Initialize project**
@@ -14,7 +15,9 @@ Install the npm cli tool. Make sure npm module in on system path by running a co
 - Choose files to create default mappings for
 - There is a new directory created in project.
 
-<video src="02-grpc-init.mp4"></video>
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://github.com/grpc-devtool/grpc-devtool.github.io/raw/master/quick-start/02-grpc-init.mp4">
+</video>
 
 
 
@@ -41,8 +44,14 @@ Install the npm cli tool. Make sure npm module in on system path by running a co
   # While recording sreams, it will save only 10 messages by default
   trimmedStreamSize: 10
   ```
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="">
+</video>
 
-<video src="03-created-grpc.yaml-and-protos.mp4"></video>
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://github.com/grpc-devtool/grpc-devtool.github.io/raw/master/quick-start/03-created-grpc.yaml-and-protos.mp4">
+</video>
+
 
 
 
@@ -85,7 +94,10 @@ Install the npm cli tool. Make sure npm module in on system path by running a co
   }
   ```
 
-<video src="04-created-mapping-and-template.mp4"></video>
+
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://github.com/grpc-devtool/grpc-devtool.github.io/raw/master/quick-start/04-created-mapping-and-template.mp4">
+</video>
 
 
 
@@ -117,7 +129,10 @@ Install the npm cli tool. Make sure npm module in on system path by running a co
     trimmedStreamSize: 10
   ```
 
-<video src="05-configure-app-to-use-devtool.mp4"></video>
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://github.com/grpc-devtool/grpc-devtool.github.io/raw/master/quick-start/05-configure-app-to-use-devtool.mp4">
+</video>
+
 
 
 
@@ -132,7 +147,9 @@ Install the npm cli tool. Make sure npm module in on system path by running a co
 
 - Make an API call in the app
 
-<video src="06-grpc-record.mp4"></video>
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://github.com/grpc-devtool/grpc-devtool.github.io/raw/master/quick-start/06-grpc-record.mp4">
+</video>
 
 
 
@@ -142,8 +159,9 @@ Install the npm cli tool. Make sure npm module in on system path by running a co
 - Rename and organize these files as per your preferences
 - Update the `mapping.yaml` to map them to endpoints
 
-<video src="07-map-recorded-files.mp4"></video>
-
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://github.com/grpc-devtool/grpc-devtool.github.io/raw/master/quick-start/07-map-recorded-files.mp4">
+</video>
 
 
 **Run service against devtool server**
@@ -153,8 +171,10 @@ Install the npm cli tool. Make sure npm module in on system path by running a co
   ```bash
   grpc serve .
   ```
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://github.com/grpc-devtool/grpc-devtool.github.io/raw/master/quick-start/10-run-app-against-recorded.mp4">
+</video>
 
-<video src="10-run-app-against-recorded.mp4"></video>
 
 
 
